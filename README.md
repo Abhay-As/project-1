@@ -10,7 +10,7 @@ This repository houses the complete codebase for a SaaS-style landing page proje
   - `server.js`
   - `package.json`
   - `package-lock.json`
-  - `.env` *(if applicable)*
+  - `.env` 
 
 - **Master Branch**: Includes all supporting files, additional assets, test modules, and archived iterations used during development.
 
@@ -22,6 +22,7 @@ This repository houses the complete codebase for a SaaS-style landing page proje
 - Node.js
 - Express (via server.js)
 - dotenv
+- Mongodb
 
 ## 🧑‍💻 Getting Started
 
